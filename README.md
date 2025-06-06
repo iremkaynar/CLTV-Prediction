@@ -27,4 +27,4 @@ To calculate the expected future value of each customer based on their historica
 The dataset used in this study is not shared on GitHub due to license restrictions.  
 The notebook was executed and visualized on Kaggle.
 
-🔗 [Click here to view the notebook on Kaggle]()
+🔗 [Click here to view the notebook on Kaggle](https://www.kaggle.com/code/remkaynar/cltv-prediction-with-bg-nbd-and-gammagamma)
